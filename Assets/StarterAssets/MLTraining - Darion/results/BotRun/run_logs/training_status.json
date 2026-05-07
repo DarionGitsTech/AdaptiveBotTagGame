@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    },
+    "BotChase": {
+        "checkpoints": [
+            {
+                "steps": 4974,
+                "file_path": "results/BotRun/BotChase/BotChase-4974.onnx",
+                "reward": -0.8324997574090958,
+                "creation_time": 1778131834.707639,
+                "auxillary_file_paths": [
+                    "results/BotRun/BotChase/BotChase-4974.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4974,
+            "file_path": "results/BotRun/BotChase.onnx",
+            "reward": -0.8324997574090958,
+            "creation_time": 1778131834.707639,
+            "auxillary_file_paths": [
+                "results/BotRun/BotChase/BotChase-4974.pt"
+            ]
+        }
+    }
+}
